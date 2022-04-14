@@ -1,0 +1,10 @@
+/workspace/deal-ii-learning/dealii/examples/step-1/CMakeFiles/info.dir
+/workspace/deal-ii-learning/dealii/examples/step-1/CMakeFiles/edit_cache.dir
+/workspace/deal-ii-learning/dealii/examples/step-1/CMakeFiles/strip_comments.dir
+/workspace/deal-ii-learning/dealii/examples/step-1/CMakeFiles/distclean.dir
+/workspace/deal-ii-learning/dealii/examples/step-1/CMakeFiles/runclean.dir
+/workspace/deal-ii-learning/dealii/examples/step-1/CMakeFiles/release.dir
+/workspace/deal-ii-learning/dealii/examples/step-1/CMakeFiles/debug.dir
+/workspace/deal-ii-learning/dealii/examples/step-1/CMakeFiles/run.dir
+/workspace/deal-ii-learning/dealii/examples/step-1/CMakeFiles/rebuild_cache.dir
+/workspace/deal-ii-learning/dealii/examples/step-1/CMakeFiles/step-1.dir
